@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Clemmondvox
+- 👀 I’m interested in ... coding 
+- 🌱 I’m currently learning ... python
+- 💞️ I’m looking to collaborate on ... python projects to learn!
+- 📫 How to reach me ... justinsaur50@outlook.com
